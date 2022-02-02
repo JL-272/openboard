@@ -25,7 +25,7 @@
     <color name="typed_word_color_ics">#D833B5E5</color>
     <color name="suggested_word_color_ics">#B233B5E5</color>
     <color name="highlight_translucent_color_ics">#9933B5E5</color>
-    <color name="key_text_color_holo">@android:color/white</color>
+    <color name="key_text_color_holo">#424242</color>
     <color name="key_text_inactivated_color_holo">#66E0E4E5</color>
     <color name="key_hint_letter_color_holo">#80000000</color>
     <color name="key_hint_label_color_holo">#A0FFFFFF</color>
@@ -33,7 +33,7 @@
     <color name="key_shifted_letter_hint_activated_color_holo">@android:color/white</color>
     <color name="spacebar_text_color_holo">#FFC0C0C0</color>
     <color name="spacebar_text_shadow_color_holo">#80000000</color>
-    <color name="gesture_floating_preview_color_holo">#C0000000</color>
+    <color name="gesture_floating_preview_color_holo">#063d39</color>
     <color name="emoji_tab_page_indicator_background_holo">#111111</color>
     <!-- Color resources for KLP theme. Base color = F0F0F0 -->
     <color name="highlight_color_klp">#FFF0F0F0</color>
@@ -72,38 +72,38 @@
 
     <!-- Color resources for LXX_Dark theme.
          10%:0x19 50%:0x80 70%:0xB3 75%:0xC0 80%:0xCC 85%:0xD9 90%:0xE6  -->
-    <color name="key_text_color_lxx_dark">#FFFFFF</color>
-    <color name="key_functional_text_color_lxx_dark">#CCFFFFFF</color>
-    <color name="key_text_inactive_color_lxx_dark">#80FFFFFF</color>
-    <color name="key_hint_letter_color_lxx_dark">#80FFFFFF</color>
+    <color name="key_text_color_lxx_dark">#787878</color>
+    <color name="key_functional_text_color_lxx_dark">#828282</color>
+    <color name="key_text_inactive_color_lxx_dark">#363636</color>
+    <color name="key_hint_letter_color_lxx_dark">#454545</color>
     <color name="language_on_spacebar_text_color_lxx_dark">#B3FFFFFF</color>
     <color name="highlight_color_lxx_dark">#5E97F6</color>
-    <color name="auto_correct_color_lxx_dark">#FFFFFF</color>
-    <color name="typed_word_color_lxx_dark">#D9FFFFFF</color>
-    <color name="suggested_word_color_lxx_dark">#B3FFFFFF</color>
+    <color name="auto_correct_color_lxx_dark">#828282</color>
+    <color name="typed_word_color_lxx_dark">#d4d4d4</color>
+    <color name="suggested_word_color_lxx_dark">#ababab</color>
     <color name="gesture_trail_color_lxx_dark">#5E97F6</color>
     <color name="sliding_key_input_preview_color_lxx_dark">#436baf</color>
-    <color name="key_background_lxx_dark">#00000000</color>
-    <color name="key_background_pressed_lxx_dark">#19FFFFFF</color>
-    <color name="action_key_background_lxx_dark">#5E97F6</color>
-    <color name="action_key_background_pressed_lxx_dark">#86b0f6</color>
-    <color name="suggested_word_background_selected_lxx_dark">#1CFFFFFF</color>
-    <color name="gesture_floating_preview_color_lxx_dark">#E621272B</color>
-    <color name="emoji_tab_page_indicator_background_lxx_dark">#21272B</color>
+    <color name="key_background_lxx_dark">#085c55</color>
+    <color name="key_background_pressed_lxx_dark">#063d39</color>
+    <color name="action_key_background_lxx_dark">#00686b</color>
+    <color name="action_key_background_pressed_lxx_dark">#204669</color>
+    <color name="suggested_word_background_selected_lxx_dark">#16314a</color>
+    <color name="gesture_floating_preview_color_lxx_dark">#063d39</color>
+    <color name="emoji_tab_page_indicator_background_lxx_dark">#0a2b28</color>
     <!-- Color resources for LXX_Dark_Border theme.
          15%:0x26 70%:0xB3 75%:0xC0 80%:0xCC 85%:0xD9 90%:0xE6 -->
-    <color name="keyboard_background_lxx_dark_border">#0d0d0d</color>
-    <color name="key_background_normal_lxx_dark_border">#4d4d4d</color>
-    <color name="key_background_pressed_lxx_dark_border">#424242</color>
-    <color name="key_background_functional_lxx_dark_border">#1f1f1f</color>
-    <color name="key_bottom_bevel_lxx_dark">#252525</color>
-    <color name="emoji_tab_page_indicator_background_lxx_dark_border">#1f1f1f</color>
+    <color name="keyboard_background_lxx_dark_border">#0b3632</color>
+    <color name="key_background_normal_lxx_dark_border">#085c55</color>
+    <color name="key_background_pressed_lxx_dark_border">#063d39</color>
+    <color name="key_background_functional_lxx_dark_border">#26364d</color>
+    <color name="key_bottom_bevel_lxx_dark">#121212</color>
+    <color name="emoji_tab_page_indicator_background_lxx_dark_border">#0a2b28</color>
     <!-- Color resources for LXX_Dark_Amoled theme.
          15%:0x26 70%:0xB3 75%:0xC0 80%:0xCC 85%:0xD9 90%:0xE6 -->
     <color name="background_amoled_black">#000000</color>
     <color name="background_amoled_dark">#1A1A1A</color>
 
-    <color name="popup_background_material_dark_theme">#ff3c474c</color>
+    <color name="popup_background_material_dark_theme">#063d39</color>
 
     <!-- Color resources for setup wizard and tutorial -->
     <color name="setup_background">#FFEBEBEB</color>

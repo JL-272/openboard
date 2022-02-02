@@ -22,7 +22,7 @@
 <resources>
     <!-- Preferable keyboard height in absolute scale: 45.0mm -->
     <!-- This config_default_keyboard_height value should match with keyboard-heights.xml -->
-    <dimen name="config_default_keyboard_height">283.5dp</dimen>
+    <dimen name="config_default_keyboard_height">100dp</dimen>
     <fraction name="config_min_keyboard_height">40%p</fraction>
 
     <dimen name="config_more_keys_keyboard_key_height">81.9dp</dimen>
